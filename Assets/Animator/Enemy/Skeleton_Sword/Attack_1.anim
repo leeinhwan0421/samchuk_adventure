@@ -1,0 +1,128 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!74 &7400000
+AnimationClip:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Attack_1
+  serializedVersion: 6
+  m_Legacy: 0
+  m_Compressed: 0
+  m_UseHighQualityCurve: 1
+  m_RotationCurves: []
+  m_CompressedRotationCurves: []
+  m_EulerCurves: []
+  m_PositionCurves: []
+  m_ScaleCurves: []
+  m_FloatCurves: []
+  m_PPtrCurves:
+  - curve:
+    - time: 0
+      value: {fileID: 21300000, guid: a4a889c95e6a4914a9c2a1380a95acd6, type: 3}
+    - time: 0.05
+      value: {fileID: 21300000, guid: 2aea819fcba870d46968fcc859f7a7b3, type: 3}
+    - time: 0.1
+      value: {fileID: 21300000, guid: 25a1ecf0de83a0748950eaa9b9c6ca9a, type: 3}
+    - time: 0.15
+      value: {fileID: 21300000, guid: 9b11115bff644f44ba05d9f74869d56c, type: 3}
+    - time: 0.2
+      value: {fileID: 21300000, guid: 80fb87564d5ae08479a9171f7addcaf4, type: 3}
+    - time: 0.25
+      value: {fileID: 21300000, guid: c6d55cd7e48014b478333204ac0eb8be, type: 3}
+    - time: 0.3
+      value: {fileID: 21300000, guid: 333660997f3c6794c8a821bf5bddd27a, type: 3}
+    - time: 0.35
+      value: {fileID: 21300000, guid: 2e8635d02b44ad24d8e3afc6d1de1d67, type: 3}
+    - time: 0.4
+      value: {fileID: 21300000, guid: 82a9fe4d36d5abd47b14a94fc19404f3, type: 3}
+    - time: 0.45
+      value: {fileID: 21300000, guid: 646d22bbfe1cb9647a84f9a6ea0abd77, type: 3}
+    - time: 0.5
+      value: {fileID: 21300000, guid: bc14fb428f568b04e8ce4561279d90e1, type: 3}
+    - time: 0.55
+      value: {fileID: 21300000, guid: 9b2455470d5d5ab46b5f22e4925f232e, type: 3}
+    - time: 0.6
+      value: {fileID: 21300000, guid: 5e30aa1b8ad75c94ebf97bb427583cd2, type: 3}
+    - time: 0.65
+      value: {fileID: 21300000, guid: 4581ec1de48e6fe42b3adcd33dd7f566, type: 3}
+    attribute: m_Sprite
+    path: 
+    classID: 212
+    script: {fileID: 0}
+  m_SampleRate: 20
+  m_WrapMode: 0
+  m_Bounds:
+    m_Center: {x: 0, y: 0, z: 0}
+    m_Extent: {x: 0, y: 0, z: 0}
+  m_ClipBindingConstant:
+    genericBindings:
+    - serializedVersion: 2
+      path: 0
+      attribute: 0
+      script: {fileID: 0}
+      typeID: 212
+      customType: 23
+      isPPtrCurve: 1
+    pptrCurveMapping:
+    - {fileID: 21300000, guid: a4a889c95e6a4914a9c2a1380a95acd6, type: 3}
+    - {fileID: 21300000, guid: 2aea819fcba870d46968fcc859f7a7b3, type: 3}
+    - {fileID: 21300000, guid: 25a1ecf0de83a0748950eaa9b9c6ca9a, type: 3}
+    - {fileID: 21300000, guid: 9b11115bff644f44ba05d9f74869d56c, type: 3}
+    - {fileID: 21300000, guid: 80fb87564d5ae08479a9171f7addcaf4, type: 3}
+    - {fileID: 21300000, guid: c6d55cd7e48014b478333204ac0eb8be, type: 3}
+    - {fileID: 21300000, guid: 333660997f3c6794c8a821bf5bddd27a, type: 3}
+    - {fileID: 21300000, guid: 2e8635d02b44ad24d8e3afc6d1de1d67, type: 3}
+    - {fileID: 21300000, guid: 82a9fe4d36d5abd47b14a94fc19404f3, type: 3}
+    - {fileID: 21300000, guid: 646d22bbfe1cb9647a84f9a6ea0abd77, type: 3}
+    - {fileID: 21300000, guid: bc14fb428f568b04e8ce4561279d90e1, type: 3}
+    - {fileID: 21300000, guid: 9b2455470d5d5ab46b5f22e4925f232e, type: 3}
+    - {fileID: 21300000, guid: 5e30aa1b8ad75c94ebf97bb427583cd2, type: 3}
+    - {fileID: 21300000, guid: 4581ec1de48e6fe42b3adcd33dd7f566, type: 3}
+  m_AnimationClipSettings:
+    serializedVersion: 2
+    m_AdditiveReferencePoseClip: {fileID: 0}
+    m_AdditiveReferencePoseTime: 0
+    m_StartTime: 0
+    m_StopTime: 0.7
+    m_OrientationOffsetY: 0
+    m_Level: 0
+    m_CycleOffset: 0
+    m_HasAdditiveReferencePose: 0
+    m_LoopTime: 1
+    m_LoopBlend: 0
+    m_LoopBlendOrientation: 0
+    m_LoopBlendPositionY: 0
+    m_LoopBlendPositionXZ: 0
+    m_KeepOriginalOrientation: 0
+    m_KeepOriginalPositionY: 1
+    m_KeepOriginalPositionXZ: 0
+    m_HeightFromFeet: 0
+    m_Mirror: 0
+  m_EditorCurves: []
+  m_EulerEditorCurves: []
+  m_HasGenericRootTransform: 0
+  m_HasMotionFloatCurves: 0
+  m_Events:
+  - time: 0.5
+    functionName: SetAttackCollider2D
+    data: 
+    objectReferenceParameter: {fileID: 0}
+    floatParameter: 0
+    intParameter: 1
+    messageOptions: 0
+  - time: 0.65
+    functionName: SetAttackCollider2D
+    data: 
+    objectReferenceParameter: {fileID: 0}
+    floatParameter: 0
+    intParameter: 0
+    messageOptions: 0
+  - time: 0.65
+    functionName: ChangeStateToInt
+    data: 
+    objectReferenceParameter: {fileID: 0}
+    floatParameter: 0
+    intParameter: 0
+    messageOptions: 0

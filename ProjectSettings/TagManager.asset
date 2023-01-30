@@ -1,0 +1,54 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Ground
+  - PlayerAttackObject
+  - EnemyAttackObject
+  - Enemy
+  - Npc
+  - Item
+  - Breakable
+  - Coin
+  - Chest
+  - SpikeGround
+  - Lever
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Ground
+  - Water
+  - UI
+  - Coin
+  - Player
+  - Enemy
+  - Platform
+  - BackGround
+  - EnemyAttackObject
+  - PlayerAttackObject
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
