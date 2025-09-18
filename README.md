@@ -25,4 +25,4 @@
 | 비밀 벽 |![image](https://github.com/user-attachments/assets/3d0d63b1-e3dc-4dd8-9da5-4e5418859a2b)| 플레이어가 진입할 시, 반 투명하게 바뀐다. |
 
 # 시연 영상
-[YouTube 링크](https://www.youtube.com/watch?v=LQu5gajauW4&t=734s)
+[YouTube 링크](https://www.youtube.com/watch?v=LQu5gajauW4)
